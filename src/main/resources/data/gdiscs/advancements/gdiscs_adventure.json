@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "gdiscs:textures/music_disc_13.png",
+    "icon": {
+      "item": "gdiscs:gdisc"
+    },
+    "title": {
+      "translate": "advancements.gdiscs_adventure.title"
+    },
+    "description": {
+      "translate": "advancements.gdiscs_adventure.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "gdiscs_adventure": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:overworld"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "mod_elements": [
+    {
+      "name": "Gdisc",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gdisc"
+    },
+    {
+      "name": "Gdiscs",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gdiscs"
+    },
+    {
+      "name": "GdiscsAdventure",
+      "type": "achievement",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gdiscs_adventure"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.gdiscs.gdisc.desc": "How Did You Get This?",
+      "itemGroup.tabgdiscs": "GDiscs",
+      "advancements.gdiscs_adventure.descr": "Thanks for downloading this Mod. Your Adventure May Strat",
+      "item.gdiscs.gdisc": "Gdisc",
+      "advancements.gdiscs_adventure.title": "Gdiscs Adventure"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "gdiscs",
+    "modName": "GDiscs",
+    "version": "1.0.0",
+    "author": "Bart-anna, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "net.mcreator.gdiscs",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}

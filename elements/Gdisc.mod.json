@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_gdisc",
+    "name": "Gdisc",
+    "description": "How Did You Get This?",
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "music": {
+      "value": "entity.enderdragon.death"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}
