@@ -3,7 +3,7 @@
   "_type": "achievement",
   "definition": {
     "achievementName": "Gdiscs Adventure",
-    "achievementDescription": "Thanks for downloading this Mod. Your Adventure May Strat",
+    "achievementDescription": "Thanks for downloading this Mod. Your Adventure May Start",
     "achievementIcon": {
       "value": "CUSTOM:Gdisc"
     },
