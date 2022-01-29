@@ -11,6 +11,7 @@ import net.minecraftforge.event.RegistryEvent;
 import net.minecraft.world.item.Item;
 
 import net.mcreator.gdiscs.item.GdiscItem;
+import net.mcreator.gdiscs.item.FortstressItem;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -19,6 +20,7 @@ import java.util.ArrayList;
 public class GdiscsModItems {
 	private static final List<Item> REGISTRY = new ArrayList<>();
 	public static final Item GDISC = register(new GdiscItem());
+	public static final Item FORTSTRESS = register(new FortstressItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

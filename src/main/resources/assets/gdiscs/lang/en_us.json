@@ -1,7 +1,13 @@
 {
   "item.gdiscs.gdisc.desc": "How Did You Get This?",
   "itemGroup.tabgdiscs": "GDiscs",
+  "item.gdiscs.fortstress.desc": "The Bling-Bling Cheese - Fort-stress",
+  "subtitles.fortstress_gdiscs.record": "fortstress",
   "advancements.gdiscs_adventure.descr": "Thanks for downloading this Mod. Your Adventure May Start",
   "item.gdiscs.gdisc": "Gdisc",
-  "advancements.gdiscs_adventure.title": "Gdiscs Adventure"
+  "subtitles.fortstress.musicgdiscs": "The Bling-Bling Cheese - Fort-stress",
+  "advancements.gdiscs_adventure.title": "Gdiscs Adventure",
+  "advancements.fortstress_a.descr": "Get Fort-stress Music Disc, Kinda stress experience.",
+  "item.gdiscs.fortstress": "Music Disc",
+  "advancements.fortstress_a.title": "Fort-stress"
 }

@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_fort-stress",
+    "name": "Music Disc",
+    "description": "The Bling-Bling Cheese - Fort-stress",
+    "creativeTab": {
+      "value": "CUSTOM:Gdiscs"
+    },
+    "music": {
+      "value": "CUSTOM:fortstress_gdiscs.record"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

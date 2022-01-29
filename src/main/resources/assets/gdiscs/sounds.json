@@ -1,0 +1,12 @@
+{
+  "fortstress_gdiscs.record": {
+    "category": "record",
+    "subtitle": "subtitles.fortstress_gdiscs.record",
+    "sounds": [
+      {
+        "name": "gdiscs:the_bling-bling_cheese_-_fort-stress",
+        "stream": true
+      }
+    ]
+  }
+}

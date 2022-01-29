@@ -23,17 +23,56 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "gdiscs_adventure"
+    },
+    {
+      "name": "Fortstress",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fortstress"
+    },
+    {
+      "name": "FortstressA",
+      "type": "achievement",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fortstress_a"
+    },
+    {
+      "name": "FortstressTable",
+      "type": "loottable",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fortstress_table"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "fortstress_gdiscs.record",
+      "files": [
+        "the_bling-bling_cheese_-_fort-stress"
+      ],
+      "category": "record",
+      "subtitle": "fortstress"
+    }
+  ],
   "language_map": {
     "en_us": {
       "item.gdiscs.gdisc.desc": "How Did You Get This?",
       "itemGroup.tabgdiscs": "GDiscs",
+      "item.gdiscs.fortstress.desc": "The Bling-Bling Cheese - Fort-stress",
+      "subtitles.fortstress_gdiscs.record": "fortstress",
       "advancements.gdiscs_adventure.descr": "Thanks for downloading this Mod. Your Adventure May Start",
       "item.gdiscs.gdisc": "Gdisc",
-      "advancements.gdiscs_adventure.title": "Gdiscs Adventure"
+      "subtitles.fortstress.musicgdiscs": "The Bling-Bling Cheese - Fort-stress",
+      "advancements.gdiscs_adventure.title": "Gdiscs Adventure",
+      "advancements.fortstress_a.descr": "Get Fort-stress Music Disc, Kinda stress experience.",
+      "item.gdiscs.fortstress": "Music Disc",
+      "advancements.fortstress_a.title": "Fort-stress"
     }
   },
   "foldersRoot": {

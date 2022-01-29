@@ -17,10 +17,7 @@
   },
   "criteria": {
     "gdiscs_adventure": {
-      "trigger": "minecraft:changed_dimension",
-      "conditions": {
-        "to": "minecraft:overworld"
-      }
+      "trigger": "minecraft:tick"
     }
   }
 }
