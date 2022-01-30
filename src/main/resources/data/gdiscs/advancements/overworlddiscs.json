@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:grass_block"
+    },
+    "title": {
+      "translate": "advancements.overworlddiscs.title"
+    },
+    "description": {
+      "translate": "advancements.overworlddiscs.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "overworlddiscs": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "parent": "gdiscs:gdiscs_adventure"
+}
