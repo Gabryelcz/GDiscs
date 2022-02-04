@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_weird_realm",
+    "name": "Music Disc",
+    "description": "ToastDot.39 - Weird Realm",
+    "creativeTab": {
+      "value": "CUSTOM:Gdiscs"
+    },
+    "music": {
+      "value": "CUSTOM:weirdrealm_gdiscs"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

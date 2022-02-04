@@ -20,6 +20,7 @@ public class GdiscsModSounds {
 	static {
 		REGISTRY.put(new ResourceLocation("gdiscs", "fortstress_gdiscs.record"),
 				new SoundEvent(new ResourceLocation("gdiscs", "fortstress_gdiscs.record")));
+		REGISTRY.put(new ResourceLocation("gdiscs", "weirdrealm_gdiscs"), new SoundEvent(new ResourceLocation("gdiscs", "weirdrealm_gdiscs")));
 	}
 
 	@SubscribeEvent

@@ -8,5 +8,14 @@
         "stream": true
       }
     ]
+  },
+  "weirdrealm_gdiscs": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "gdiscs:toastdot.39_-_weird_realm",
+        "stream": true
+      }
+    ]
   }
 }
